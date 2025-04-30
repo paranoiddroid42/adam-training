@@ -11,18 +11,65 @@
     },
     "items": [
         {
-            "id": "https://paranoiddroid42.github.io/adam-training/welcome/",
-            "url": "https://paranoiddroid42.github.io/adam-training/welcome/",
-            "title": "Welcome",
-            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lY8jzbmTOqA?si=GF541ifbYF3hXyWw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
-            "image": "https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-14.10.42.png",
+            "id": "https://paranoiddroid42.github.io/adam-training/what-is-pre-diabetes/",
+            "url": "https://paranoiddroid42.github.io/adam-training/what-is-pre-diabetes/",
+            "title": "What is Pre-diabetes?",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/X_tZkZ-d6fc?si=OEU53cTyePciHV_G\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://paranoiddroid42.github.io/adam-training/media/posts/6/Screenshot-2025-04-30-at-15.14.02.png",
             "author": {
                 "name": "ADNAT Team"
             },
             "tags": [
+                   "public"
+            ],
+            "date_published": "2025-04-30T15:14:13+01:00",
+            "date_modified": "2025-04-30T15:14:35+01:00"
+        },
+        {
+            "id": "https://paranoiddroid42.github.io/adam-training/how-do-i-use-the-adnat-app/",
+            "url": "https://paranoiddroid42.github.io/adam-training/how-do-i-use-the-adnat-app/",
+            "title": "How do I use the ADNAT app?",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/Mz6rBG3mLms\" title=\"YPStartingADNAT\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://paranoiddroid42.github.io/adam-training/media/posts/5/ADNAT-Logo4x-100.jpg",
+            "author": {
+                "name": "ADNAT Team"
+            },
+            "tags": [
+                   "public"
+            ],
+            "date_published": "2025-04-30T15:09:23+01:00",
+            "date_modified": "2025-04-30T15:15:15+01:00"
+        },
+        {
+            "id": "https://paranoiddroid42.github.io/adam-training/what-is-diabetes/",
+            "url": "https://paranoiddroid42.github.io/adam-training/what-is-diabetes/",
+            "title": "What is Diabetes?",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lY8jzbmTOqA?si=cjZ9na_q__LrTtqp\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://paranoiddroid42.github.io/adam-training/media/posts/4/Screenshot-2025-04-30-at-15.08.20.png",
+            "author": {
+                "name": "ADNAT Team"
+            },
+            "tags": [
+                   "public"
+            ],
+            "date_published": "2025-04-30T14:38:24+01:00",
+            "date_modified": "2025-04-30T15:11:05+01:00"
+        },
+        {
+            "id": "https://paranoiddroid42.github.io/adam-training/welcome/",
+            "url": "https://paranoiddroid42.github.io/adam-training/welcome/",
+            "title": "Welcome",
+            "summary": "This site has been designed to demonstrate how to use the Adolescent Diabetes Needs Assessment Tool (ADNAT) If you are&hellip;",
+            "content_html": "<p>This site has been designed to demonstrate how to use the Adolescent Diabetes Needs Assessment Tool (ADNAT)</p>\n<p>If you are a clinician we <a href=\"https://paranoiddroid42.github.io/adam-training/clinical-training/\">training resources</a> for you to understand the data and design behind ADNAT.</p>\n<p>If you are a young person with diabetes or a parent, we invite you to review the <a href=\"https://paranoiddroid42.github.io/adam-training/public-training-content/\">public training resources</a> that explains ADNAT and how to use the app.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube-nocookie.com/embed/lY8jzbmTOqA?si=GF541ifbYF3hXyWw\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "image": "https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-15.08.20.png",
+            "author": {
+                "name": "ADNAT Team"
+            },
+            "tags": [
+                   "general"
             ],
             "date_published": "2025-04-30T14:05:08+01:00",
-            "date_modified": "2025-04-30T14:10:53+01:00"
+            "date_modified": "2025-04-30T15:08:34+01:00"
         }
     ]
 }
