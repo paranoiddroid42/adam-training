@@ -3,10 +3,28 @@
     <title>ADNAT</title>
     <link href="https://paranoiddroid42.github.io/adam-training/feed.xml" rel="self" />
     <link href="https://paranoiddroid42.github.io/adam-training" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2025-04-30T14:10:53+01:00</updated>
     <author>
         <name>ADNAT Team</name>
     </author>
     <id>https://paranoiddroid42.github.io/adam-training</id>
 
+    <entry>
+        <title>Welcome</title>
+        <author>
+            <name>ADNAT Team</name>
+        </author>
+        <link href="https://paranoiddroid42.github.io/adam-training/welcome/"/>
+        <id>https://paranoiddroid42.github.io/adam-training/welcome/</id>
+        <media:content url="https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-14.10.42.png" medium="image" />
+
+        <updated>2025-04-30T14:05:08+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-14.10.42.png" class="type:primaryImage" alt="" /></p>
+                <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/lY8jzbmTOqA?si=GF541ifbYF3hXyWw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
 </feed>
