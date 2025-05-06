@@ -3,7 +3,7 @@
     <title>ADNAT</title>
     <link href="https://paranoiddroid42.github.io/adam-training/feed.xml" rel="self" />
     <link href="https://paranoiddroid42.github.io/adam-training" />
-    <updated>2025-04-30T15:15:15+01:00</updated>
+    <updated>2025-05-06T14:45:00+01:00</updated>
     <author>
         <name>ADNAT Team</name>
     </author>
@@ -54,14 +54,12 @@
         </author>
         <link href="https://paranoiddroid42.github.io/adam-training/what-is-diabetes/"/>
         <id>https://paranoiddroid42.github.io/adam-training/what-is-diabetes/</id>
-        <media:content url="https://paranoiddroid42.github.io/adam-training/media/posts/4/Screenshot-2025-04-30-at-15.08.20.png" medium="image" />
             <category term="public"/>
 
         <updated>2025-04-30T14:38:24+01:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://paranoiddroid42.github.io/adam-training/media/posts/4/Screenshot-2025-04-30-at-15.08.20.png" class="type:primaryImage" alt="" /></p>
                 <div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube-nocookie.com/embed/lY8jzbmTOqA?si=cjZ9na_q__LrTtqp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
             ]]>
         </content>
@@ -73,19 +71,16 @@
         </author>
         <link href="https://paranoiddroid42.github.io/adam-training/welcome/"/>
         <id>https://paranoiddroid42.github.io/adam-training/welcome/</id>
-        <media:content url="https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-15.08.20.png" medium="image" />
             <category term="general"/>
 
         <updated>2025-04-30T14:05:08+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-15.08.20.png" alt="" />
                     This site has been designed to demonstrate how to use the Adolescent Diabetes Needs Assessment Tool (ADNAT) If you are&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://paranoiddroid42.github.io/adam-training/media/posts/3/Screenshot-2025-04-30-at-15.08.20.png" class="type:primaryImage" alt="" /></p>
                 <p>This site has been designed to demonstrate how to use the Adolescent Diabetes Needs Assessment Tool (ADNAT)</p>
 <p>If you are a clinician we <a href="https://paranoiddroid42.github.io/adam-training/clinical-training/">training resources</a> for you to understand the data and design behind ADNAT.</p>
 <p>If you are a young person with diabetes or a parent, we invite you to review the <a href="https://paranoiddroid42.github.io/adam-training/public-training-content/">public training resources</a> that explains ADNAT and how to use the app.</p>
